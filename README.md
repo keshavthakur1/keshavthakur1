@@ -49,6 +49,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavthakur1&show_icons=true&locale=en&layout=compact" alt="keshavthakur1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavthakur1&show_icons=true&locale=en" alt="keshavthakur1" /></p>   CORRECT THIS README FILE 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavthakur1&show_icons=true&locale=en" alt="keshavthakur1" /></p>   
 
 
