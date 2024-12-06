@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Keshav Kumar Thakur</h1>
-<h3 align="center">A passionate full stack web developer, pursuing Btech in Electronic and Communication Engineering at Indian Institute of Information Technology Senapati, Manipur (2020-2024)</h3>
+<h3 align="center">A passionate full stack web developer, Recently done my Btech in Electronic and Communication Engineering at Indian Institute of Information Technology </h3>
 
 <p align="center">
   <img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
