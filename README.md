@@ -11,8 +11,7 @@
 
 <p align="left">📫 How to reach me: keshav@iiitmanipur.ac.in</p>
 
-<p align="left">
-  📄 Know about my experiences <a href="https://drive.google.com/file/d/19YRTGARP3JHiBS5dUZf54AYKa4VLEwsE/view?usp=sharing">here</a>
+
 
 </p>
 
