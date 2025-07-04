@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=keshavthakur1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="left">📫 How to reach me: keshav@iiitmanipur.ac.in</p>
+<p align="left">📫 How to reach me: keshavthakur0404@gmail.com</p>
 
 
 
