@@ -25,7 +25,7 @@
   </a>
     </a>
   <a href="https://www.youtube.com/@keshavthakur04" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
